@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-div{
+.holder{
 	display:flex;
 	flex-wrap:wrap;
-	justify-contetnt:space-around;
+	justify-contetnt:space-between;
 }
 
 div a{
