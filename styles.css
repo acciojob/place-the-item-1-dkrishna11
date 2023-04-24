@@ -3,10 +3,10 @@
 .holder{
 	display:flex;
 	flex-wrap:wrap;
-	justify-contetnt:space-between;
+	justify-content:space-between;
 }
 
-div a{
+.holder a{
 	text-decoration:none;
 	color:black;
 	background-color:green;
